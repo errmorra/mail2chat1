@@ -22,7 +22,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://localhost:3000/src/taskpane.html" />
+        <SourceLocation DefaultValue="https://github.com/errmorra/mail2chat1.git" />
       </DesktopSettings>
     </Form>
   </FormSettings>
