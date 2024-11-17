@@ -2,11 +2,11 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1"
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xsi:type="MailApp">
-  <Id>Mail2Chat</Id>
+  <Id>123e4567-e89b-12d3-a456-426614174000</Id>
   <Version>1.0.0.0</Version>
-  <ProviderName>YEF/ProviderName>
+  <ProviderName>YEF</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName>Mail2Chat/DisplayName>
+  <DisplayName>Mail2Chat</DisplayName>
   <Description>Turns emails into a chat-like view.</Description>
 
   <Hosts>
@@ -22,7 +22,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://github.com/errmorra/mail2chat1.git" />
+        <SourceLocation DefaultValue="https://your-hosted-url/taskpane.html" />
       </DesktopSettings>
     </Form>
   </FormSettings>
